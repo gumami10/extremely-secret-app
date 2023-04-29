@@ -1,30 +1,23 @@
 {
   "files": {
     "main.css": "/extremely-secret-app/static/css/main.43d0d931.chunk.css",
-    "main.js": "/extremely-secret-app/static/js/main.eb3ccea5.chunk.js",
-    "main.js.map": "/extremely-secret-app/static/js/main.eb3ccea5.chunk.js.map",
+    "main.js": "/extremely-secret-app/static/js/main.bf3c82c4.chunk.js",
+    "main.js.map": "/extremely-secret-app/static/js/main.bf3c82c4.chunk.js.map",
     "runtime-main.js": "/extremely-secret-app/static/js/runtime-main.7b86970a.js",
     "runtime-main.js.map": "/extremely-secret-app/static/js/runtime-main.7b86970a.js.map",
-    "static/js/2.d4d0a9b4.chunk.js": "/extremely-secret-app/static/js/2.d4d0a9b4.chunk.js",
-    "static/js/2.d4d0a9b4.chunk.js.map": "/extremely-secret-app/static/js/2.d4d0a9b4.chunk.js.map",
+    "static/js/2.2b58d58e.chunk.js": "/extremely-secret-app/static/js/2.2b58d58e.chunk.js",
+    "static/js/2.2b58d58e.chunk.js.map": "/extremely-secret-app/static/js/2.2b58d58e.chunk.js.map",
     "index.html": "/extremely-secret-app/index.html",
-    "precache-manifest.2e0050d296d62e4bc12e8b675311e5ae.js": "/extremely-secret-app/precache-manifest.2e0050d296d62e4bc12e8b675311e5ae.js",
+    "precache-manifest.a289dc312fbd7be641a80d9809998218.js": "/extremely-secret-app/precache-manifest.a289dc312fbd7be641a80d9809998218.js",
     "service-worker.js": "/extremely-secret-app/service-worker.js",
     "static/css/main.43d0d931.chunk.css.map": "/extremely-secret-app/static/css/main.43d0d931.chunk.css.map",
-    "static/js/2.d4d0a9b4.chunk.js.LICENSE.txt": "/extremely-secret-app/static/js/2.d4d0a9b4.chunk.js.LICENSE.txt",
-    "static/media/canvas-1.png": "/extremely-secret-app/static/media/canvas-1.51ba5827.png",
-    "static/media/canvas.jpg": "/extremely-secret-app/static/media/canvas.39bf82e3.jpg",
-    "static/media/canvas1.png": "/extremely-secret-app/static/media/canvas1.9c96749c.png",
-    "static/media/canvas2.png": "/extremely-secret-app/static/media/canvas2.41962af0.png",
-    "static/media/canvas3.jpg": "/extremely-secret-app/static/media/canvas3.ab47262d.jpg",
-    "static/media/canvas4.jpg": "/extremely-secret-app/static/media/canvas4.f3545874.jpg",
-    "static/media/canvas5.jpg": "/extremely-secret-app/static/media/canvas5.aab625ed.jpg",
-    "static/media/canvas6.jpg": "/extremely-secret-app/static/media/canvas6.f602fd5a.jpg"
+    "static/js/2.2b58d58e.chunk.js.LICENSE.txt": "/extremely-secret-app/static/js/2.2b58d58e.chunk.js.LICENSE.txt",
+    "static/media/canvas.jpg": "/extremely-secret-app/static/media/canvas.f3545874.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7b86970a.js",
-    "static/js/2.d4d0a9b4.chunk.js",
+    "static/js/2.2b58d58e.chunk.js",
     "static/css/main.43d0d931.chunk.css",
-    "static/js/main.eb3ccea5.chunk.js"
+    "static/js/main.bf3c82c4.chunk.js"
   ]
 }
