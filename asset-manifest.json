@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/extremely-secret-app/static/css/main.43d0d931.chunk.css",
-    "main.js": "/extremely-secret-app/static/js/main.bf3c82c4.chunk.js",
-    "main.js.map": "/extremely-secret-app/static/js/main.bf3c82c4.chunk.js.map",
-    "runtime-main.js": "/extremely-secret-app/static/js/runtime-main.7b86970a.js",
-    "runtime-main.js.map": "/extremely-secret-app/static/js/runtime-main.7b86970a.js.map",
-    "static/js/2.2b58d58e.chunk.js": "/extremely-secret-app/static/js/2.2b58d58e.chunk.js",
-    "static/js/2.2b58d58e.chunk.js.map": "/extremely-secret-app/static/js/2.2b58d58e.chunk.js.map",
-    "index.html": "/extremely-secret-app/index.html",
-    "precache-manifest.a289dc312fbd7be641a80d9809998218.js": "/extremely-secret-app/precache-manifest.a289dc312fbd7be641a80d9809998218.js",
-    "service-worker.js": "/extremely-secret-app/service-worker.js",
-    "static/css/main.43d0d931.chunk.css.map": "/extremely-secret-app/static/css/main.43d0d931.chunk.css.map",
-    "static/js/2.2b58d58e.chunk.js.LICENSE.txt": "/extremely-secret-app/static/js/2.2b58d58e.chunk.js.LICENSE.txt",
-    "static/media/canvas.jpg": "/extremely-secret-app/static/media/canvas.f3545874.jpg"
+    "main.css": "/static/css/main.43d0d931.chunk.css",
+    "main.js": "/static/js/main.7b9ad6a6.chunk.js",
+    "main.js.map": "/static/js/main.7b9ad6a6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b5e2c1b7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b5e2c1b7.js.map",
+    "static/js/2.2b58d58e.chunk.js": "/static/js/2.2b58d58e.chunk.js",
+    "static/js/2.2b58d58e.chunk.js.map": "/static/js/2.2b58d58e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f0606486f615589fe2c22937a9c34e57.js": "/precache-manifest.f0606486f615589fe2c22937a9c34e57.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.43d0d931.chunk.css.map": "/static/css/main.43d0d931.chunk.css.map",
+    "static/js/2.2b58d58e.chunk.js.LICENSE.txt": "/static/js/2.2b58d58e.chunk.js.LICENSE.txt",
+    "static/media/canvas.jpg": "/static/media/canvas.f3545874.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b86970a.js",
+    "static/js/runtime-main.b5e2c1b7.js",
     "static/js/2.2b58d58e.chunk.js",
     "static/css/main.43d0d931.chunk.css",
-    "static/js/main.bf3c82c4.chunk.js"
+    "static/js/main.7b9ad6a6.chunk.js"
   ]
 }
